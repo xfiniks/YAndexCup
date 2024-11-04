@@ -1,2 +1,2 @@
 # YAndexCup
-YandexCup
+Сделаны все пукнты кроме зума
